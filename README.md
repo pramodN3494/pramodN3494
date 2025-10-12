@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Pramod Jondhale</h1>
 
-<h3 align="center">🚀 SAP Commerce Cloud (Hybris) Consultant | Java Developer | Cloud Computing, DevOPS Learner | Data Science & AI Enthusiast</h3>
+<h3 align="center">🚀 SAP Commerce Cloud (Hybris) Consultant | Java Developer | Cloud Computing | DevOPS | Data Science & AI </h3>
 
 <p align="center">
   <a href="mailto:jondhalepramod5486@gmail.com"><img src="https://img.shields.io/badge/Email-jondhalepramod5486%40gmail.com-red?logo=gmail"></a>
