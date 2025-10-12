@@ -7,8 +7,6 @@
 <p align="center">
   <a href="mailto:jondhalepramod5486@gmail.com"><img src="https://img.shields.io/badge/Email-jondhalepramod5486%40gmail.com-red?logo=gmail"></a>
   <a href="https://www.linkedin.com/in/pramod-jondhale-65b1a7110/"><img src="https://img.shields.io/badge/LinkedIn-Pramod%20Jondhale-blue?logo=linkedin"></a>
-  <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-your--github--username-black?logo=github"></a>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=brightgreen&style=flat-square" alt="profile views" />
 </p>
 
 ---
