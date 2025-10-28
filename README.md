@@ -16,7 +16,7 @@
 💡 9+ years of experience building scalable **SAP Commerce (Hybris)** and **Java-based eCommerce** solutions.  
 ⚙️ Hands-on with **Hybris Modules**, **Hybris Integrations**, **SEO**.  
 ☁️ Passionate about **AWS**, **DevOps**, and **Data Science & AI**.  
-📈 Currently exploring **Generative AI** & **Data Science & AI**.
+📈 Currently exploring  **Data Science, **Generative AI** & AI**.
 
 ---
 
