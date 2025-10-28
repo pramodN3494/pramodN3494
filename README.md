@@ -66,9 +66,18 @@
   <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,mongodb,aws,git,maven,hibernate,spring,linux" />
 </p>
 
-**Core:** SAP Hybris(Data Modelling, Flexible Search, Cronjob, Category and Classifications, Event, Business Process, Email Process, Promotions, WCMS Customization, Backoffice Customization, Order and Checkout Flow Customizatiopn, Product Bundling, Login and Registration, Payment and other Third Party Integrations, Inboud/Outbound, Impex, Workflow, Upgrade and Migration, SEO) | Java | Spring MVC | REST/OCC APIs | OAuth2.0 | SAML2.0  
-**Databases:** MSSQL | MySQL | MongoDB | Oracle  
-**Cloud & DevOps:** AWS (EC2, S3, VPC, DNS, Autoscaling & Load Balancer, EBS, EFS, SNS, Lambda, CloudFormation, IAM ), Azure | Dev OPS (GIT, Ansible, Jenkins, Docker, Terraform, Kubernetes, AWS DevOPS, Devsecops, Cloud Security )
+**Core:** SAP Hybris(Data Modelling, Flexible Search, Cronjob, Category and Classifications, Event, Business Process, Email Process, Promotions, WCMS Customization, Backoffice Customization, Order and Checkout Flow Customizatiopn, Product Bundling, Login and Registration, Payment and other Third Party Integrations, Inboud/Outbound, Impex, Workflow, Upgrade and Migration, SEO) | REST/OCC APIs | OAuth2.0 | SAML2.0  
+
+**Backend**:  Core & Advanced Java | Spring MVC
+
+**Frontend**: HTML | CSS
+
+**Databases:** MSSQL | MySQL | MongoDB | Oracle
+
+**Cloud:** AWS Cloud (EC2, S3, VPC, DNS, Autoscaling & Load Balancer, EBS, EFS, SNS, Lambda, CloudFormation, IAM ), Azure Cloud
+
+**DevOps:** GIT, Ansible, Jenkins, Docker, Terraform, Kubernetes, AWS DevOPS, Devsecops, Cloud Security
+
 **Data Science & AI:** Python - NumPy, Pandas, Data Visualization(matplotlib, seaborn), Statistics and Probability, Inferential Analytics, Machine learning - Supervised Learning, Unsupervised Learning, Advanced Machine Learning Algorithms, Spark, TensorFlow, Natural Language Processing, Generative AI, Prompt Engineering & Application-Based Generative AI, Agentic Foundations for Machine Learning Workflows,  Intelligent Agent-Driven Modeling and Evaluation, Power BI, MLOps, 
 
 ---
@@ -77,7 +86,6 @@
 - 🤖 Generative AI for eCommerce & Business Productivity  
 - ⚡ AI Automations with **Make.com + AI**  
 - 📊 Data Science, Data Visualization & AI
-- 
 ---
 
 ### 📊 GitHub Stats
