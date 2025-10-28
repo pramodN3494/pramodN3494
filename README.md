@@ -13,10 +13,11 @@
 
 ### 🧠 About Me
 
-💡 9+ years of experience building scalable **SAP Commerce (Hybris)** and **Java-based eCommerce** solutions.  
-⚙️ Hands-on with **Hybris Modules**, **Hybris Integrations**, **SEO**.  
-☁️ Passionate about **AWS**, **DevOps**, and **Data Science & AI**.  
-📈 Currently exploring  **Data Science, **Generative AI** & AI**.
+💡 9+ years of experience designing and delivering scalable SAP Commerce (Hybris) and Java-based eCommerce platforms.  
+⚙️ Deep expertise in Hybris modules, integrations, and performance optimization with a strong focus on clean, maintainable architecture.  
+☁️ Skilled in AWS, Azure, and DevOps tools — Docker, Jenkins, Kubernetes, Terraform — for cloud-native deployment and CI/CD automation.  
+🤖 Exploring Data Science, MLOps, and Generative AI to bring intelligent automation and personalization into eCommerce.
+
 
 ---
 
