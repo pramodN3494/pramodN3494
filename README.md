@@ -26,7 +26,7 @@
 #### 🏢 **Thyssenkrupp Materials IT Services** (Feb 2023 – Present)
 **Senior SAP Commerce Cloud Consultant**
 
-- Architected & developed **B2B/B2C commerce portals**.  
+- Solutioning & developing **B2B/B2C commerce portals**.  
 - Implemented **Structured Data Schema** for SEO improvements.  
 - Managed **major Hybris upgrade** (JDK + Spring migration).  
 - Checkout and Quote-to-Order customizations.  
