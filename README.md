@@ -69,7 +69,8 @@
   <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,mongodb,aws,git,maven,hibernate,spring,linux" />
 </p>
 
-**Core:** SAP Hybris - Data Modelling | Flexible Search | Cronjob | Category and Classifications | Event | Business Process & Email Process | Promotions | WCMS Customization | Backoffice Customization | Order and Checkout Flow Customizatiopn | Product Bundling | Login and Registration | Inboud/Outbound | Impex/Export | Workflow | Upgrade and Migration | SEO | OAuth2.0 | SAML2.0 | Payment and other Third Party Integrations
+**🧠 Domain Expertise:** SAP Hybris - Data Modelling | Flexible Search | Cronjob | Category and Classifications | Event | Business Process & Email Process | Promotions | WCMS Customization | Backoffice Customization | Order and Checkout Flow Customizatiopn | Product Bundling | Login and Registration | Inboud/Outbound | Impex/Export | Workflow | Upgrade and Migration | SEO | OAuth2.0 | SAML2.0 | Payment and other Third Party Integrations | SAP Cloud Platform Integration (CPI)
+
 
 **Backend**:  Core & Advanced Java | Spring MVC
 
@@ -89,6 +90,8 @@
 - 🤖 Generative AI for eCommerce & Business Productivity  
 - ⚡ AI Automations with **Make.com + AI**  
 - 📊 Data Science, Data Visualization & AI
+- ☁️ SAP Cloud Platform Integration (CPI)
+
 ---
 
 ### 📊 GitHub Stats
