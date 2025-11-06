@@ -69,20 +69,29 @@
   <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,mongodb,aws,git,maven,hibernate,spring,linux" />
 </p>
 
-**🧠 Domain Expertise:** SAP Hybris - Data Modelling | Flexible Search | Cronjob | Category and Classifications | Event | Business Process & Email Process | Promotions | WCMS Customization | Backoffice Customization | Order and Checkout Flow Customizatiopn | Product Bundling | Login and Registration | Inboud/Outbound | Impex/Export | Workflow | Upgrade and Migration | SEO | OAuth2.0 | SAML2.0 | Payment and other Third Party Integrations | SAP Cloud Platform Integration (CPI)
+## 🧠 Domain Expertise  
+**SAP Hybris (SAP Commerce Cloud)** — Data Modelling | Flexible Search | Cronjob | Category & Classification | Event Handling | Business Process & Email Process | Promotions | WCMS & Backoffice Customization | Order & Checkout Flow | Product Bundling | Login & Registration | Inbound/Outbound | Impex/Export | Workflow | Upgrade & Migration | SEO | OAuth2.0 | SAML2.0 | Payment & Third-Party Integrations | **SAP Cloud Platform Integration (CPI)**  
 
+---
 
-**Backend**:  Core & Advanced Java | Spring MVC
+### 💻 Backend  
+Core & Advanced Java | Spring MVC  
 
-**Frontend**: HTML | CSS
+### 🎨 Frontend  
+HTML | CSS  
 
-**Databases:** MSSQL | MySQL | MongoDB | Oracle
+### 🗄️ Databases  
+MSSQL | MySQL | MongoDB | Oracle  
 
-**Cloud:** AWS Cloud (EC2, S3, VPC, DNS, Autoscaling & Load Balancer, EBS, EFS, SNS, Lambda, CloudFormation, IAM ), Azure Cloud
+### ☁️ Cloud  
+AWS Cloud (EC2, S3, VPC, DNS, Autoscaling & Load Balancer, EBS, EFS, SNS, Lambda, CloudFormation, IAM) | Azure Cloud  
 
-**DevOps:** GIT, Ansible, Jenkins, Docker, Terraform, Kubernetes, AWS DevOPS, Devsecops, Cloud Security
+### ⚙️ DevOps  
+GIT | Ansible | Jenkins | Docker | Terraform | Kubernetes | AWS DevOps | DevSecOps | Cloud Security  
 
-**Data Science & AI:** Python - NumPy, Pandas, Data Visualization(matplotlib, seaborn), Statistics and Probability, Inferential Analytics, Machine learning - Supervised Learning, Unsupervised Learning, Advanced Machine Learning Algorithms, Spark, TensorFlow, Natural Language Processing, Generative AI, Prompt Engineering & Application-Based Generative AI, Agentic Foundations for Machine Learning Workflows,  Intelligent Agent-Driven Modeling and Evaluation, Power BI, MLOps, 
+### 🤖 Data Science & AI  
+Python — NumPy, Pandas, Data Visualization (matplotlib, seaborn), Statistics & Probability, Inferential Analytics, Machine Learning (Supervised, Unsupervised, Advanced ML Algorithms), Spark, TensorFlow, NLP, Generative AI, Prompt Engineering, Agentic AI Foundations, Intelligent Agent-Driven Modeling, Power BI, MLOps  
+
 
 ---
 
