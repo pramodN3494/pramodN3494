@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Pramod Jondhale</h1>
 
-<h3 align="center">🚀 SAP Commerce Cloud (Hybris) Consultant | Java Developer | Cloud Computing | DevOPS | Data Science & AI </h3>
+<h3 align="center">🚀 SAP Commerce Cloud (Hybris) Consultant | Java Developer | SAP CPI | Cloud Computing | DevOPS | Data Science & AI </h3>
 
 <p align="center">
   <a href="mailto:jondhalepramod5486@gmail.com"><img src="https://img.shields.io/badge/Email-jondhalepramod5486%40gmail.com-red?logo=gmail"></a>
@@ -58,6 +58,8 @@
 🏅 [SAP Certified Application Associate – Commerce Cloud 2005 Business User](https://www.credly.com/badges/0527969d-0427-41e9-9c44-58c3a09fc610)  
 ☁️ [Executive PG Certification – Cloud Computing & DevOps (IIT Roorkee)](https://tih.iitr.ac.in/certificate/intellipaat/TIH2406144.jpg)  
 📊 Executive PG Certification – Data Science & AI *(In Progress)*  
+🚀 SAP Cloud Platform Integration (CPI) *(In Progress)*  
+
 
 ---
 
