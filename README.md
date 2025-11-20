@@ -52,7 +52,7 @@
 
 ---
 
-### 🎓 Certifications
+### 🎓 Certifications & Courses
 
 🏅 [SAP Certified Development Professional – SAP Commerce Cloud 1905](https://www.credly.com/badges/eeb5485f-d9bc-43c2-ad16-7884f4ab4784)  
 🏅 [SAP Certified Application Associate – Commerce Cloud 2005 Business User](https://www.credly.com/badges/0527969d-0427-41e9-9c44-58c3a09fc610)  
