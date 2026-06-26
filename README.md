@@ -57,8 +57,7 @@
 🏅 [SAP Certified Development Professional – SAP Commerce Cloud 1905](https://www.credly.com/badges/eeb5485f-d9bc-43c2-ad16-7884f4ab4784)  
 🏅 [SAP Certified Application Associate – Commerce Cloud 2005 Business User](https://www.credly.com/badges/0527969d-0427-41e9-9c44-58c3a09fc610)  
 ☁️ [Executive PG Certification – Cloud Computing & DevOps (IIT Roorkee)](https://tih.iitr.ac.in/certificate/intellipaat/TIH2406144.jpg)  
-📊 Executive PG Certification – Data Science & AI *(In Progress)*  
-🚀 SAP Cloud Platform Integration (CPI) *(In Progress)*  
+📊 Executive PG Certification – Data Science & AI   
 
 
 ---
@@ -92,6 +91,8 @@ GIT | Ansible | Jenkins | Docker | Terraform | Kubernetes | AWS DevOps | DevSecO
 ### 🤖 Data Science & AI  
 Python — NumPy, Pandas, Data Visualization (matplotlib, seaborn), Statistics & Probability, Inferential Analytics, Machine Learning (Supervised, Unsupervised, Advanced ML Algorithms), Spark, TensorFlow, NLP, Generative AI, Prompt Engineering, Agentic AI Foundations, Intelligent Agent-Driven Modeling, Power BI, MLOps  
 
+### Workflow Automation
+Make.com. n8n
 
 ---
 
@@ -100,31 +101,8 @@ Python — NumPy, Pandas, Data Visualization (matplotlib, seaborn), Statistics &
 - ⚡ AI Automations with **Make.com + AI**  
 - 📊 Data Science, Data Visualization & AI
 - ☁️ SAP Cloud Platform Integration (CPI)
+  
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" />
-</p>
-
----
-
-### 📫 Let’s Connect
-
-<p align="center">
-  <a href="mailto:jondhalepramod5486@gmail.com"><img src="https://img.shields.io/badge/Email-me-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/pramod-jondhale-65b1a7110/"><img src="https://img.shields.io/badge/LinkedIn-Pramod%20Jondhale-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
-</p>
-
----
 
 <h4 align="center">💬 "Code with purpose, build with passion, and automate what matters." 💡</h4>
 
