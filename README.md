@@ -102,7 +102,7 @@ Make.com. n8n
 - 📊 Data Science, Data Visualization & AI
 - ☁️ SAP Cloud Platform Integration (CPI)
   
-
+---
 
 <h4 align="center">💬 "Code with purpose, build with passion, and automate what matters." 💡</h4>
 
