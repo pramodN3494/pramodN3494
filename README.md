@@ -92,7 +92,7 @@ GIT | Ansible | Jenkins | Docker | Terraform | Kubernetes | AWS DevOps | DevSecO
 Python — NumPy, Pandas, Data Visualization (matplotlib, seaborn), Statistics & Probability, Inferential Analytics, Machine Learning (Supervised, Unsupervised, Advanced ML Algorithms), Spark, TensorFlow, NLP, Generative AI, Prompt Engineering, Agentic AI Foundations, Intelligent Agent-Driven Modeling, Power BI, MLOps  
 
 ### Workflow Automation
-Make.com. n8n
+Make.com, n8n.
 
 ---
 
